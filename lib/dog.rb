@@ -10,7 +10,7 @@ class Dog
     @name = name
   end
   
-  def clear_all(name)
+  def clear_all
     @@all.clear
 end
 end
