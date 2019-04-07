@@ -16,5 +16,6 @@ class Dog
   def self.all
     self.each do |dog|
       dog.name
+    end
 end
 end
